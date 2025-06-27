@@ -8,7 +8,7 @@ This app uses a trained **Random Forest Regressor** model to forecast COGS from 
 
 ## 🚀 Live Demo
 
-👉 [Click to Launch the App]([https://your-username-cogs-prediction-app.streamlit.app](https://cogs-prediction-app-zmd5ycgjv5fsokf5ryf8df.streamlit.app/#overview))
+👉 [Click to Launch the App]([https://your-username-cogs-prediction-app.streamlit.app](https://cogs-prediction-app-zmd5ycgjv5fsokf5ryf8df.streamlit.app/#overview)
 
 ---
 
