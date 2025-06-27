@@ -79,3 +79,17 @@ if st.button("🔍 Predict COGS"):
     # Predict
     prediction = model.predict(input_data)[0]
     st.success(f"🧾 Predicted COGS: **${prediction:,.2f}**")
+
+# ---------- FOOTER ----------
+st.markdown(
+    """
+    <hr style="margin-top:35px; margin-bottom:10px">
+
+    <div style="text-align:center; font-size:0.9rem;">
+        Made with ❤️ using <a href="https://streamlit.io" target="_blank">Streamlit</a> |
+        <a href="https://github.com/Praisedunmininu/COGS-Prediction-app" target="_blank">GitHub Repo</a> |
+        Contact: <a href="mailto:your.email@example.com">your.email@example.com</a>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
