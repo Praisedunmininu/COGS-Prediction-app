@@ -28,7 +28,7 @@ from PIL import Image
 
 st.markdown("## 🖼️ Overview")
 image = Image.open("images/overview.jpg")
-st.image(image, use_column_width=True, caption="What the COGS App Does")
+st.image(image, use_container_width=True, caption="What the COGS App Does")
 
 
 # Categorical inputs
