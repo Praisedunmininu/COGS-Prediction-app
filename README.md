@@ -8,7 +8,12 @@ This app uses a trained **Random Forest Regressor** model to forecast COGS from 
 
 ## 🚀 Live Demo
 
-👉 [Click to Launch the App]([https://your-username-cogs-prediction-app.streamlit.app](https://cogs-prediction-app-zmd5ycgjv5fsokf5ryf8df.streamlit.app/#overview)
+<p align="center">
+  <a href="https://cogs-prediction-app-zmd5ycgjv5fsokf5ryf8df.streamlit.app/#overview" target="_blank">
+    <img src="https://img.shields.io/badge/🔴 Launch_App-Click_Here-brightgreen?style=for-the-badge&logo=streamlit" alt="Launch Streamlit App">
+  </a>
+</p>
+
 
 ---
 
@@ -105,3 +110,6 @@ Machine Learning Enthusiast | Data Scientist | Tech for Impact in Africa
 This project is open source and free to use under the MIT License.
 
 
+# 🧮 COGS Prediction App
+
+[![Launch App](https://img.shields.io/badge/🚀 Launch_Streamlit_App-Click_Here-brightgreen?style=for-the-badge&logo=streamlit)](https://cogs-prediction-app-zmd5ycgjv5fsokf5ryf8df.streamlit.app/#overview)
