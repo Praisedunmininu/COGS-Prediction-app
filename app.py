@@ -27,7 +27,7 @@ st.markdown("### 📅 Date Information")
 from PIL import Image
 
 st.markdown("## 🖼️ Overview")
-image = Image.open("images/overview.JPG")
+image = Image.open("images/overview.jpg")
 st.image(image, use_column_width=True, caption="What the COGS App Does")
 
 
